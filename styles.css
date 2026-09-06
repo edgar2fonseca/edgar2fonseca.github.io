@@ -45,8 +45,8 @@ img { max-width: 100%; display: block; }
 .hero { padding: 110px 0 90px; border-bottom: 1px solid var(--line); }
 .hero-grid {
   display: grid;
-  grid-template-columns: minmax(0, 1.4fr) minmax(280px, .6fr);
-  gap: 70px; align-items: center;
+  grid-template-columns: minmax(0, 1.25fr) minmax(320px, .75fr);
+  gap: 60px; align-items: center;
 }
 .eyebrow, .section-kicker {
   text-transform: uppercase; letter-spacing: .16em;
