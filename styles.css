@@ -146,3 +146,9 @@ h3 { font-size: 1.2rem; margin-bottom: 8px; }
   .education-card, .contact-card, .footer-wrap { flex-direction: column; align-items: flex-start; }
   .education-stats { justify-content: flex-start; }
 }
+.profile-photo {
+  width: 100%;
+  aspect-ratio: 4 / 5;
+  object-fit: cover;
+  border-radius: 20px;
+}
