@@ -1,11 +1,12 @@
 # edgar2fonseca.github.io
 
-Personal resume / portfolio website for Edgardo Fonseca Rodríguez.
+Personal résumé / portfolio website for Edgardo Fonseca Rodríguez.
 
-## Version 2
-- About headline changed to focus on practical problem solving.
-- Added the full CompTIA Security+ CE certificate.
-- Added a CompTIA verification link.
-- Added the Cybersecurity & Emergency Management Summit 2025 certificate.
-- Removed the outdated credential placeholders/privacy note.
-- Photo area remains a placeholder until the profile image is prepared.
+## Version 3
+- Added current professional profile image.
+- Added downloadable 2026 résumé.
+- Added custom EF favicon and Apple touch icon.
+- Updated browser tab title.
+- Added Open Graph / social sharing metadata.
+- Added a 1200×630 social preview image.
+- Added a floating Back to Top button.
