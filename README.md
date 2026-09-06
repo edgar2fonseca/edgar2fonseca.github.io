@@ -2,13 +2,10 @@
 
 Personal resume / portfolio website for Edgardo Fonseca Rodríguez.
 
-## Files
-
-- `index.html` — page content
-- `styles.css` — visual styling
-- `script.js` — small site behavior
-- `assets/images/` — images and credential previews
-
-## Privacy note
-
-The public site intentionally avoids publishing sensitive student numbers, certification candidate IDs, and verification codes.
+## Version 2
+- About headline changed to focus on practical problem solving.
+- Added the full CompTIA Security+ CE certificate.
+- Added a CompTIA verification link.
+- Added the Cybersecurity & Emergency Management Summit 2025 certificate.
+- Removed the outdated credential placeholders/privacy note.
+- Photo area remains a placeholder until the profile image is prepared.
